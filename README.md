@@ -25,7 +25,7 @@ Además, tengo experiencia en el desarrollo de videojuegos, edición de videos y
 
 ## Contacto
 
-Si quieres conocer más sobre mi trabajo o tienes alguna pregunta, ¡no dudes en contactarme!
+Si quieres conocer más sobre mi trabajo o tienes alguna pregunta, no dudes en explorar mis proyectos y, ¡No dudes en contactarme!
 
 - 📧 Correo electrónico: [ejperezmariscal@gmail.com](mailto:ejperezmariscal@gmail.com)
 - 🌐 Sitio web: [Próximamente]
