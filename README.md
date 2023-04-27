@@ -15,8 +15,8 @@ Además, tengo experiencia en el desarrollo de videojuegos, edición de videos y
 
 ### Desarrollo web 🌐
 
-- 📈 Asteo Service Enabler: Desarrollo íntegro de una plataforma para la gestión de abonados en servicios de internet con enfoque en la accesibilidad y usabilidad para aumentar la satisfacción de los clientes. Además de otras utilidades internas, automatismos, reportes, mejora de procesos...
-- 🍽️ [Gestor de menús digitales](https://youtu.be/oBnuAPX50Ro): Plataforma para visualizar la carta de restaurantes de manera online, además de administrar el contenido del restaurante y analizar datos.
+- 📈 Asteo Service Enabler: Desarrollo íntegro de una plataforma para la gestión de abonados en servicios de internet con enfoque en la accesibilidad y usabilidad para aumentar la satisfacción de los clientes. Además de otras utilidades internas, automatismos, reportes, mejora de procesos... Se hizo con Vue.js, Express.js y MySQL.
+- 🍽️ [Gestor de menús digitales](https://youtu.be/oBnuAPX50Ro): Plataforma para visualizar la carta de restaurantes de manera online, además de administrar el contenido del restaurante y analizar datos. Se hizo con Angular, Express.js y MongoDB.
 
 ### Entretenimiento 🎮
 
