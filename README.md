@@ -15,18 +15,19 @@ Además, tengo experiencia en el desarrollo de videojuegos, edición de videos y
 
 ### Desarrollo web 🌐
 
-- 📈 Asteo Service Enabler: Desarrollo íntegro de una plataforma para la gestión de abonados en servicios de internet con enfoque en la accesibilidad y usabilidad para aumentar la satisfacción de los clientes. Además de otras utilidades internas, automatismos, reportes, mejora de procesos... Se hizo con Vue.js, Express.js y MySQL.
-- 🍽️ [Gestor de menús digitales](https://youtu.be/oBnuAPX50Ro): Plataforma para visualizar la carta de restaurantes de manera online, además de administrar el contenido del restaurante y analizar datos. Se hizo con Angular, Express.js y MongoDB.
+- 📈 Asteo Service Enabler: Desarrollo íntegro de una plataforma para la gestión de abonados en servicios de internet con enfoque en la accesibilidad y usabilidad para aumentar la satisfacción de los clientes. Además de otras utilidades internas, automatismos, reportes, mejora de procesos... Se hizo con `Vue.js`, `Express.js` y `MySQL`.
+- 🍽️ [Gestor de menús digitales](https://youtu.be/oBnuAPX50Ro): Plataforma para visualizar la carta de restaurantes de manera online, además de administrar el contenido del restaurante y analizar datos. Se hizo con `Angular`, `Express.js` y `MongoDB`.
+- ⭐🌌 [Star Wars SPA Vanilla](https://github.com/emilio-devs/STAR_WARS_SPA_VANILLA): Página web centrada en el desarrollo de una SPA desde cero, sin hacer uso de frameworks o librerías de utilidades. Se utilizó `HTML`, `JavaScript` y `CSS` puro para el Front-end y el API de [SWAPI](https://swapi.dev/) como Back-end.
+
 
 ### Entretenimiento 🎮
 
-- 🔮 [Elemental Legends](https://youtu.be/yPlaxm5nBoI): Videojuego desarrollado en equipo desde cero con C++.
-- ⚔ [League of Tanks](https://youtu.be/eG05mY4cpmM): Videojuego desarrollado en lenguaje ensamblador Z80 para Amstrad CPC con recursos mínimos, participante en la CPCRetroDev2019.
+- 🔮 [Elemental Legends](https://youtu.be/yPlaxm5nBoI): Videojuego desarrollado en equipo desde cero con `C++`.
+- ⚔ [League of Tanks](https://youtu.be/eG05mY4cpmM): Videojuego desarrollado en ``lenguaje ensamblador Z80` para Amstrad CPC con recursos mínimos, participante en la [CPCRetroDev2019](http://cpcretrodev.byterealms.com/contest/cpc-retrodev-2019/).
 
 ## Contacto
 
-Si quieres conocer más sobre mi trabajo o tienes alguna pregunta, no dudes en explorar mis proyectos y, ¡No dudes en contactarme!
-
+Si deseas conocer más sobre mi trabajo o tienes alguna pregunta, no dudes en explorar mis proyectos. ¡Y por favor, no dudes en contactarme!
 - 📧 Correo electrónico: [ejperezmariscal@gmail.com](mailto:ejperezmariscal@gmail.com)
 - 🌐 Sitio web: [Próximamente]
 - 💼 LinkedIn: [linkedin.com/in/emiliojosefullstackdeveloper](https://www.linkedin.com/in/emiliojosefullstackdeveloper//)
